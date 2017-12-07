@@ -1,0 +1,11 @@
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\bin\Debug\netcoreapp2.0\NewEventsTest.deps.json
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\bin\Debug\netcoreapp2.0\NewEventsTest.runtimeconfig.json
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\bin\Debug\netcoreapp2.0\NewEventsTest.runtimeconfig.dev.json
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\bin\Debug\netcoreapp2.0\NewEventsTest.dll
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\bin\Debug\netcoreapp2.0\NewEventsTest.pdb
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.csprojResolveAssemblyReference.cache
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.csproj.CoreCompileInputs.cache
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.AssemblyInfoInputs.cache
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.AssemblyInfo.cs
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.dll
+c:\users\chrisgrant\documents\visual studio 2017\Projects\NewEventsTest\NewEventsTest\obj\Debug\netcoreapp2.0\NewEventsTest.pdb
